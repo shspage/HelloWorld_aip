@@ -17,5 +17,5 @@ ImportSuite gImportSuites[] =
     kAIMenuSuite, kAIMenuSuiteVersion, &sAIMenu,
 	kAIUnicodeStringSuite, kAIUnicodeStringVersion, &sAIUnicodeString,
     kAIShapeConstructionSuite, kAIShapeConstructionSuiteVersion, &sAIShape,
-	nil, 0, nil
+	nullptr, 0, nullptr
 };
